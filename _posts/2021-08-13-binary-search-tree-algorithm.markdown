@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "binary tree search"
+title:  "binary search tree"
 date:   2021-08-13 16:37:54 +0900
 ---
 
