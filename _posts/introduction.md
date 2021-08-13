@@ -2,6 +2,7 @@
 layout: post
 title:  "What i will do in the blog"
 date:   2021-08-13 16:37:54 +0900
+permalink: /introduction/
 ---
 
 
